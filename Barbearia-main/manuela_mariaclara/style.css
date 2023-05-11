@@ -1,0 +1,52 @@
+h1 {
+    text-align: center;
+    color: rgb(255, 0, 170);
+    font-size: 68px;
+    font-style: italic;
+    background-color: pink;
+    padding: 40px;
+}
+h2 {
+    text-align: center;
+    color:rgb(172, 0, 106);
+    font-size: 60px;
+    background-color: palevioletred;
+
+ }
+
+b {
+    color: rgb(230, 33, 154);
+    font-family: 'Times New Roman', Times, serif;
+    font-size:20px;
+}
+
+.imagem {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    border: 50px solid #f05ebf;
+    border-radius: 40px;
+    border-style:initial;
+    
+}
+    
+ul{ 
+    background-color: #e698cc;
+    border-radius: 600px;
+    width: 96%;
+
+}
+
+.contato{
+    background-color: #f05ebf;
+    margin: auto;
+    text-align: center;
+    border-radius: 600px;
+    width: 50%;
+}
+
+
+ 
+}
