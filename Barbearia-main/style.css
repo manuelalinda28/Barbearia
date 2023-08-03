@@ -113,3 +113,28 @@ footer img {
     font-size: 13px;
     margin: 20px 0 0;
 }
+
+main{
+    width:940px;
+    margin:auto;
+}
+form{
+    margin: 40px 0;
+}
+
+form label, form p{
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+.input-padrao{
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+
+.checkbook{
+    margin: 20px 0;
+}
